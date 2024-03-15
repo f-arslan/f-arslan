@@ -5,7 +5,7 @@ You can ask me anything about Android, Kotlin and Modern Android Development, in
 
 I'm trying to master Gradle and CI/CD tools to make my development process more efficient. I'm also interested in backend development; I'm learning Ktor, GraphQL and Postgres for this.
 
-I'm building an open-source project called [Gptmap](https://github.com/f-arslan/GptMap) to showcase modern Android development. Contributions and feedback are always welcome. And you can help me make it better!
+I'm building an open-source project called [Gptmap](https://github.com/f-arslan/GptMap) to showcase modern Android development. Contributions and feedback are always welcome. And you can help me to make it better!
 
 I'm always open to new collaborations, so don't hesitate to get in touch with me!
 
