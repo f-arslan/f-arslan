@@ -1,5 +1,5 @@
 # Hi there 👋
-Welcome to my repository! I'm an Android Developer with a deep passion for both creating and learning. As someone who's always exploring the latest trends in technology, I've developed a particular expertise in the Android ecosystem. 
+Welcome to my profile! I'm an Android Developer with a deep passion for both creating and learning. As someone who's always exploring the latest trends in technology, I've developed a particular expertise in the Android ecosystem. 
 
 You can ask me anything about Android, Kotlin and Modern Android Development, including Jetpack Compose, Coroutines & Flow, Hilt, MVVM and more. 
 
