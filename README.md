@@ -1,9 +1,5 @@
 # Hi there 👋
-Welcome to my profile! I'm an Android Developer with a deep passion for creating and learning. As someone who's always exploring the latest trends in technology, I've developed a particular expertise in the Android ecosystem. 
-
-You can ask me anything about Android, Kotlin, and Modern Android Development, including Jetpack Compose, Coroutines & Flow, Hilt, MVVM, and more. 
-
-I'm building an open-source project called [Gptmap](https://github.com/f-arslan/GptMap) to showcase modern Android development. Contributions and feedback are always welcome. And you can help me to make it better!
+I'm a Software Engineer with a deep passion for building scalable, end-to-end systems. As someone who loves exploring the entire technology stack, I specialize in bridging the gap between high-performance mobile applications and robust backend infrastructures.
 
 I'm always open to new collaborations, so don't hesitate to contact me!
 
