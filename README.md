@@ -5,11 +5,7 @@ I'm always open to new collaborations, so don't hesitate to contact me!
 
 <div align="center">
   <h2>Techs</h2>
-  <p>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=kotlin,gradle,java,mongodb,postgresql,graphql,firebase,ktor,python,c,p5js,go,cpp,js&perline=7" />
-    </a>
-  </p>
+  <img src="https://skillicons.dev/icons?i=kotlin,gradle,java,mongodb,postgresql,graphql,firebase,ktor,python,c,p5js,go,cpp,js&perline=7" />
 </div>
 
 
